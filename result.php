@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>BrajMaya Foundation</title>
+		<title>Braj Maya Foundation</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,44 +14,27 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<header id="header">
-					<h1 id="logo"><a href="index.html">BrajMaya Foundation</a></h1>
-					<nav id="nav">
-						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="mission.html">Our Mission</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
-							<li><a href="result.html">Result</a></li>
-							<li><a href="register.html">Register</a></li>
-							<li><a href="https://www.facebook.com/brajmayafoundation" class="button special">FB Page</a></li>
-						</ul>
-					</nav>
-				</header>
+				<?php include 'header.php'; ?>
 
 			<!-- Main -->
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>Your mail has been sent</h2>
-							<p>We will get back to you shortly</p>
+							<h2>Results</h2>
 						</header>
 
 						<!-- Content -->
 							<section id="content">
 								
-								<h3><a href="index.html">Home</a></h3>
-								
+								<h3>Registrations are still going on. Results will be announced soon.</h3>
+								<p><a href="register.html">Click here to register</a></p>
 							</section>
 
 					</div>
 				</div>
 
 			<!-- Footer -->
-				<footer id="footer" style="padding:2.5em 0">
-					<ul class="copyright" style="color:white">
-						&copy; <a href="index.html" style="color:white">BrajMaya Foundation</a>. All rights reserved.<br/><br/><br/>Website by <a href="http://abhinavagrawal.in" style="color:white">Abhinav Agrawal</a>. abi123
-					</ul>
-				</footer>
+				<?php include 'footer.php'; ?>
 
 		</div>
 

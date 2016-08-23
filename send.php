@@ -14,19 +14,7 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<header id="header">
-					<h1 id="logo"><a href="index.html">BrajMaya Foundation</a></h1>
-					<nav id="nav">
-						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="mission.html">Our Mission</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
-							<li><a href="result.html">Result</a></li>
-							<li><a href="register.html">Register</a></li>
-							<li><a href="https://www.facebook.com/brajmayafoundation" class="button special">FB Page</a></li>
-						</ul>
-					</nav>
-				</header>
+				<?php include 'header.php'; ?>
 
 			<!-- Main -->
 				<div id="main" class="wrapper style1">
@@ -106,11 +94,7 @@ if (isset($_REQUEST['submitted'])) {
 				</div>
 
 			<!-- Footer -->
-				<footer id="footer" style="padding:2.5em 0">
-					<ul class="copyright" style="color:white">
-						&copy; <a href="index.html" style="color:white">BrajMaya Foundation</a>. All rights reserved.<br/><br/><br/>Website by <a href="http://abhinavagrawal.in" style="color:white">Abhinav Agrawal</a>. abi123
-					</ul>
-				</footer>
+				<?php include 'footer.php'; ?>
 
 		</div>
 

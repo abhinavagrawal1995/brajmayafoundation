@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Braj Maya Foundation</title>
+		<title>Register</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -14,43 +14,37 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<header id="header">
-					<h1 id="logo"><a href="index.html">BrajMaya Foundation</a></h1>
-					<nav id="nav">
-						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="mission.html">Our Mission</a></li>
-							<li><a href="contact.html">Contact Us</a></li>
-							<li><a href="result.html">Result</a></li>
-							<li><a href="register.html">Register</a></li>
-							<li><a href="https://www.facebook.com/brajmayafoundation" class="button special">FB Page</a></li>
-						</ul>
-					</nav>
-				</header>
+				<?php include 'header.php'; ?>
 
 			<!-- Main -->
 				<div id="main" class="wrapper style1">
 					<div class="container">
 						<header class="major">
-							<h2>Results</h2>
+							<h2>Registrations</h2>
 						</header>
 
 						<!-- Content -->
 							<section id="content">
+							<h3>Please read the following carefully before applying:</h3>
 								
-								<h3>Registrations are still going on. Results will be announced soon.</h3>
-								<p><a href="register.html">Click here to register</a></p>
+								
+								<p>For selection of Students for Scholarship, an Expert Panel of the Trust will review the applications received and interview shortlisted prospective candidates. The decision of the Expert Panel will be final. Applications may be forwarded through the Head of the Institution from which the Student has passed Class XII or where he has taken admission in undergraduate course. It is expected that financial support of Brajmaya Foundation will help produce future leaders of the country.
+Students who meet the above criteria of merit, and need financial assistance for pursuing further studies, may apply in the prescribed Proforma, by sending a completed application form with enclosures to:-
+</p>
+								<h3>“Brajmaya Foundation, 28 , Naresh Mitra Sarani, 2nd Floor, Kolkata 700025 c/o Trustee CA M M Agrawal ”.
+
+</h3>
+<br/>
+<p><a href="form.doc" download="form.doc">Registration form for 2015</a></p>
+								
+								
 							</section>
 
 					</div>
 				</div>
 
 			<!-- Footer -->
-				<footer id="footer" style="padding:2.5em 0">
-					<ul class="copyright" style="color:white">
-						&copy; <a href="index.html" style="color:white">BrajMaya Foundation</a>. All rights reserved.<br/><br/><br/>Website by <a href="http://abhinavagrawal.in" style="color:white">Abhinav Agrawal</a>. abi123
-					</ul>
-				</footer>
+				<?php include 'footer.php'; ?>
 
 		</div>
 
