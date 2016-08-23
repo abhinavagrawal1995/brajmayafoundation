@@ -40,7 +40,7 @@
 										<div class="6u$ 12u$(xsmall)">
 											<input type="text" name="mobile" id="mobile" value="" placeholder="Contact Number" />
 										</div>
-										<div class="12u$">
+										<div class="6u$ 12u$(xsmall)">
 											<div class="select-wrapper">
 												<select name="category" id="category" >
 													<option value="NA">- Choose Course -</option>
