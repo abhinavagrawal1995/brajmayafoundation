@@ -35,7 +35,7 @@ Students who meet the above criteria of merit, and need financial assistance for
 
 </h3>
 <br/>
-<p><a href="form.doc" download="form.doc">Registration form for 2015</a></p>
+<p><a href="form.doc" download="form.doc">Download Registration Form</a></p>
 								
 								
 							</section>
