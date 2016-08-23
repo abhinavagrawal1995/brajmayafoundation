@@ -30,17 +30,19 @@
 								<section>
 								<h3>Send us a mail</h3>
 								<form method="POST" action="send.php">
-									<div class="row uniform 50%">
+									<div class="row uniform">
 										<div class="6u 12u$(xsmall)">
 											<input type="text" name="name" id="name" value="" placeholder="Name" />
 										</div>
-										<div class="6u$ 12u$(xsmall)">
+										<div class="6u 12u$(xsmall)">
 											<input type="email" name="email" id="email" value="" placeholder="Email" />
 										</div>
-										<div class="6u$ 12u$(xsmall)">
+									</div>
+									<div class="row uniform">
+										<div class="6u 12u$(xsmall)">
 											<input type="text" name="mobile" id="mobile" value="" placeholder="Contact Number" />
 										</div>
-										<div class="6u$ 12u$(xsmall)">
+										<div class="6u 12u$(xsmall)">
 											<div class="select-wrapper">
 												<select name="category" id="category" >
 													<option value="NA">- Choose Course -</option>
@@ -52,15 +54,17 @@
 												</select>
 											</div>
 										</div>
-										
-										
+									</div>
+									<div class="row uniform">										
 										<div class="12u$">
 											<textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
 										</div>
+									</div>
+									<div class="row uniform">	
 										<div class="12u$">
 											<ul class="actions">
 												<li><input type="submit" value="Send Message" name="submitted" class="special" /></li>
-												<li><input type="reset" value="Reset" /></li>
+												<li style="float :right;"><input type="reset" value="Reset" /></li>
 											</ul>
 										</div>
 									</div>
