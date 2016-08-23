@@ -81,8 +81,8 @@ if (isset($_REQUEST['submitted'])) {
   echo '<hr /><h3>The following errors occurred:</h3><ul>'; 
   // Print each error. 
   foreach ($errors as $msg) { echo '<li>'. $msg . '</li>';}
-  echo '</ul><h3><a href="contact.html">Back</a></h3><hr />';}
-  else{header( 'Location: ../sent.html' ) ;
+  echo '</ul><h3><a href="contact.php">Back</a></h3><hr />';}
+  else{header( 'Location: ../sent.php' ) ;
   }
   }
 

@@ -55,7 +55,7 @@
 								<div class="4u$ 12u$(medium)">
 									<p>We shall help them in Further studies may be in any stream of Law, Economics, Chartered Accountancy, Company Secretary Course in any recognized University in India.
 </p>
-<p><a href="about.html">Read More</a></p>
+<p><a href="about.php">Read More</a></p>
 								</div>
 							</div>
 						</div>

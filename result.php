@@ -27,7 +27,7 @@
 							<section id="content">
 								
 								<h3>Registrations are still going on. Results will be announced soon.</h3>
-								<p><a href="register.html">Click here to register</a></p>
+								<p><a href="register.php">Click here to register</a></p>
 							</section>
 
 					</div>

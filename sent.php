@@ -27,7 +27,7 @@
 						<!-- Content -->
 							<section id="content">
 								
-								<h3><a href="index.html">Home</a></h3>
+								<h3><a href="index.php">Home</a></h3>
 								
 							</section>
 
