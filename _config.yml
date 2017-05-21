@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: BrajMaya Foundation
+description: To make dreams come true.
+owner: BrajMaya Foundation # or company name
+# first_published: 2015 # if migrating another site, the year of your first publish
+email: manoj@csaconsulta
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://brajmayafoundation.org" # the base hostname & protocol for your site
+social:
+  facebook-official: https://facebook.com/Brajmayafoundation
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
